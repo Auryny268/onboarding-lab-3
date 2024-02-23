@@ -4,3 +4,5 @@
 
 
 **Exercise 4:** To test a Don't Care for signal, we must test that our model's output never changes for all possible inputs for said signal.
+
+**NOTE:** I also used Michael's Lippe completed onboarding lab work to troubleshoot any bugs (which is why my `Exercise1.cpp` looks identical to his).
